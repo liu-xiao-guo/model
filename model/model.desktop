@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=model
+Exec=model
+Icon=model/model.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

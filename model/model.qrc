@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>images/apple.jpg</file>
+        <file>images/arrow-down.png</file>
+        <file>images/arrow-up.png</file>
+        <file>images/banana.jpg</file>
+        <file>images/cumquat.jpg</file>
+        <file>images/durian.jpg</file>
+        <file>images/fruit-salad.jpg</file>
+        <file>images/hamburger.jpg</file>
+        <file>images/lemonade.jpg</file>
+        <file>images/list-delete.png</file>
+        <file>images/minus-sign.png</file>
+        <file>images/moreDown.png</file>
+        <file>images/moreUp.png</file>
+        <file>images/pancakes.jpg</file>
+        <file>images/plus-sign.png</file>
+        <file>images/polarbear.jpg</file>
+        <file>images/quoll.jpg</file>
+        <file>images/vegetable-soup.jpg</file>
+        <file>images/wolf.jpg</file>
+        <file>images/remove.png</file>
+    </qresource>
+</RCC>
